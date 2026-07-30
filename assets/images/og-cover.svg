@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Marisa Rodrigues Nutrição</title>
+  <desc id="desc">Capa para redes sociais do website da nutricionista Marisa Rodrigues</desc>
+  <defs>
+    <linearGradient id="coverBg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff8f0"/>
+      <stop offset="100%" stop-color="#ffe4d0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#coverBg)"/>
+  <circle cx="980" cy="120" r="120" fill="#ffd8bf"/>
+  <circle cx="180" cy="500" r="90" fill="#fff1e4"/>
+  <rect x="78" y="78" width="1044" height="474" rx="32" fill="#ffffff" opacity="0.84"/>
+  <text x="120" y="250" fill="#241f1c" font-family="Poppins, Arial, sans-serif" font-size="68" font-weight="700">Marisa Rodrigues Nutrição</text>
+  <text x="120" y="330" fill="#5f574f" font-family="Poppins, Arial, sans-serif" font-size="34">Alimentação saudável sem regras rígidas</text>
+  <text x="120" y="395" fill="#6b625b" font-family="Poppins, Arial, sans-serif" font-size="26">Consultas presenciais e online com foco em bem-estar, confiança e resultados sustentáveis.</text>
+  <rect x="120" y="445" width="242" height="62" rx="31" fill="#f97316"/>
+  <text x="161" y="485" fill="#fffaf5" font-family="Poppins, Arial, sans-serif" font-size="28" font-weight="600">Marcar Consulta</text>
+  <text x="900" y="500" fill="#f97316" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="700">4818N | E170661</text>
+</svg>

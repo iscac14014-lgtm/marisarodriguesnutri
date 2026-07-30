@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-labelledby="title desc">
+  <title id="title">Imagem de destaque</title>
+  <desc id="desc">Ilustração premium alusiva a consulta de nutrição e bem-estar</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff7ef"/>
+      <stop offset="100%" stop-color="#ffe5d2"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#fff0e3" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="760" rx="42" fill="url(#bg)"/>
+  <circle cx="495" cy="145" r="78" fill="#ffd8be"/>
+  <circle cx="126" cy="220" r="44" fill="#ffe8d6"/>
+  <path d="M118 617c71-113 159-169 262-169 77 0 123 28 149 67-65 83-160 134-270 134-49 0-95-11-141-32Z" fill="#ffd4b5"/>
+  <rect x="96" y="88" width="448" height="584" rx="34" fill="url(#card)" stroke="#f8d3ba"/>
+  <rect x="142" y="158" width="190" height="20" rx="10" fill="#fde6d7"/>
+  <rect x="142" y="194" width="118" height="14" rx="7" fill="#f7c8a6"/>
+  <rect x="142" y="470" width="360" height="24" rx="12" fill="#fde2cf"/>
+  <rect x="142" y="510" width="326" height="16" rx="8" fill="#f8c39b"/>
+  <rect x="142" y="540" width="280" height="16" rx="8" fill="#f9d9c0"/>
+  <circle cx="350" cy="310" r="122" fill="#fff7f1" stroke="#f9d9c0" stroke-width="4"/>
+  <path d="M309 280c14-26 41-43 71-43 45 0 82 36 82 81 0 57-58 98-111 135-46-31-92-67-106-115-10-34 9-71 43-84 8-3 17-5 21-5Z" fill="#f97316" opacity="0.92"/>
+  <path d="M338 257c-18 15-31 35-31 56 0 19 11 39 29 58 10-19 18-39 19-62 0-17-5-35-17-52Z" fill="#fff1e8" opacity="0.7"/>
+  <rect x="386" y="208" width="110" height="132" rx="24" fill="#ffffff" stroke="#f7cfb1"/>
+  <path d="M441 235c26 0 47 21 47 47s-21 47-47 47-47-21-47-47 21-47 47-47Z" fill="#fff2e7"/>
+  <path d="M444 250c12 0 21 8 24 18 5 18-10 33-24 45-14-12-29-27-24-45 3-10 12-18 24-18Z" fill="#f97316"/>
+  <rect x="176" y="590" width="176" height="34" rx="17" fill="#f97316"/>
+  <rect x="366" y="590" width="112" height="34" rx="17" fill="#fff3e9" stroke="#f8ceb1"/>
+</svg>

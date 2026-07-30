@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" role="img" aria-labelledby="title desc">
+  <title id="title">Retrato ilustrado</title>
+  <desc id="desc">Retrato ilustrado de uma nutricionista com expressão acolhedora</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff7ef"/>
+      <stop offset="100%" stop-color="#ffe0ca"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="520" rx="260" fill="url(#bg2)"/>
+  <circle cx="260" cy="260" r="210" fill="#fffaf6" opacity="0.9"/>
+  <path d="M159 405c25-65 87-109 151-109 61 0 125 39 152 109-58 41-127 65-202 65-36 0-70-5-101-15Z" fill="#f3b489"/>
+  <path d="M178 189c0-66 38-118 104-118 73 0 113 49 113 121 0 91-48 145-112 145-67 0-105-61-105-148Z" fill="#f2c6a6"/>
+  <path d="M170 208c0-84 51-142 126-142 59 0 118 37 118 114 0 22-5 42-15 57-15-20-36-37-72-39-62-4-91 26-119 61-24-6-38-23-38-51Z" fill="#5c3727"/>
+  <ellipse cx="235" cy="232" rx="11" ry="14" fill="#3f291f"/>
+  <ellipse cx="320" cy="232" rx="11" ry="14" fill="#3f291f"/>
+  <path d="M254 284c12 12 37 12 49 0" fill="none" stroke="#9c5a41" stroke-linecap="round" stroke-width="8"/>
+  <path d="M225 202c11-12 28-19 46-18" fill="none" stroke="#4a3024" stroke-linecap="round" stroke-width="8"/>
+  <path d="M289 185c17-3 37 2 52 14" fill="none" stroke="#4a3024" stroke-linecap="round" stroke-width="8"/>
+  <path d="M194 459c34-25 57-87 63-122h43c8 46 27 96 54 122-29 8-60 13-93 13-23 0-45-4-67-13Z" fill="#ffffff"/>
+  <path d="M205 463c17-23 38-55 52-105 17 37 37 74 71 104-21 5-44 8-68 8-19 0-37-2-55-7Z" fill="#f97316" opacity="0.9"/>
+</svg>
